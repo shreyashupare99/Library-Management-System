@@ -1,3 +1,3 @@
 # Library-Management-System
-DBMS project
+project
 This repository is for learning git and github
